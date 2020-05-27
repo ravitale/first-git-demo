@@ -1,3 +1,3 @@
 Follow the following stpes to set up the project.Added more instructions.
 
-Changes from DDD
+Changes from DDD. More from ddd
